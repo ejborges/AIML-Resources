@@ -157,7 +157,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * RAG Techniques – Nir Diamant: https://github.com/NirDiamant/RAG_Techniques
 * GenAI Agents – Nir Diamant: https://github.com/NirDiamant/GenAI_Agents
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
-  * A collection of prompts for various
+  * A collection of prompts for various AI tools and applications
 
 # Communities
 
