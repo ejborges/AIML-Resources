@@ -101,6 +101,9 @@ Below is a collection of resources for learning how to work with and develop Art
 * Building LLMs from the Ground Up: A 3-hour Coding Workshop - Sebastian Raschka, 2024: https://www.youtube.com/watch?v=quh7z1q7-uc
 * Deep Learning for Computer Vision with Python and TensorFlow: https://www.youtube.com/watch?v=IA3WxTTPXqQ
 * 22 Machine Learning Projects That Will Make You A God At Data Science: https://www.youtube.com/watch?v=QlbyGPVaRSE
+* How To build An LLM From Scratch - Shaw Talebi: https://youtu.be/ZLbVdvOoTKM?si=0_1rwUsJcHLbZ3sv
+* How To Train Your Own Language Models - Databricks: https://youtu.be/5qlLJrv_q-Q?si=hcH0ZYw6vm4hwR7L
+* Generative AI With Large Language Models: Hands-On Training Feat Huggingface and PyTorch Lightning: Jon Krohn: https://youtu.be/Ku9PM26Cc2c?si=IdVmLSGkDaTKjvq-
 
 ## Courses
 
