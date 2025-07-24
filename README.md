@@ -206,6 +206,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * How to Ensure Reliability in LLM Applications: https://towardsdatascience.com/how-to-ensure-reliability-in-llm-applications/
 * Context Rot: How Increasing Input Tokens Impacts LLM Performance: https://research.trychroma.com/context-rot
 * The Open Source Project That Became an Essential Library for Modern AI Engineering: https://medium.com/@lucknitelol/the-open-source-project-that-became-an-essential-library-for-modern-ai-engineering-67021b50acee
+* Context Engineering For AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 
 # Development
 
