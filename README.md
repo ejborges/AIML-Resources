@@ -167,6 +167,19 @@ Below is a collection of resources for learning how to work with and develop Art
 * GenAI Agents – Nir Diamant: https://github.com/NirDiamant/GenAI_Agents
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
   * A collection of prompts for various AI tools and applications
+* Generative AI guide: https://github.com/aishwaryanr/awesome-generative-ai-guide
+* Machine learning interview: https://github.com/khangich/machine-learning-interview
+* Algorithms in Python: https://github.com/TheAlgorithms/Python
+* System design primer: https://github.com/donnemartin/system-design-primer
+* Machine learning cheat sheet: https://github.com/soulmachine/machine-learning-cheat-sheet
+* Transformers cheat sheet: https://github.com/afshinea/stanford-cme-295-transformers-large-language-models
+* Tech interview handbook: https://github.com/yangshun/tech-interview-handbook
+* Deep learning interviews: https://github.com/BoltzmannEntropy/interviews.ai
+* ML interview questions: https://github.com/andrewekhalel/MLQuestions?tab=readme-ov-file
+* Complete system design: https://github.com/Coder-World04/Complete-System-Design
+* Machine learning interviews: https://github.com/alirezadir/Machine-Learning-Interviews
+* Data science interviews: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers?tab=readme-ov-file
+
 
 # Communities
 
