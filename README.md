@@ -30,6 +30,12 @@ Below is a collection of resources for learning how to work with and develop Art
   * Build, train, and deploy end-to-end machine learning and deep learning pipelines
 * Deep Learning: https://www.deeplearningbook.org/
   * Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
+* Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce: https://a.co/d/5ktArw1
+  * 50+ Essential Concepts Using R and Python
+* Natural Language Processing with Transformers - Lewis Tunstall: https://a.co/d/5YGuGTq
+  * Train and scale transformer models using Hugging Face Transformers, a Python-based deep learning library, for various natural language processing tasks
+* Hands-On Large Language Models - Jay Alammar: https://a.co/d/5nFYfp9
+  * Leverage large language models for text understanding, generation, search, and summarization tasks using python 
 
 ## Foundational Mathematics
 
