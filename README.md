@@ -161,8 +161,23 @@ Below is a collection of resources for learning how to work with and develop Art
 ## Repositories
 
 * Andrej Karpathy - Neural Networks: Zero to Hero: https://github.com/karpathy/nn-zero-to-hero
+  * The single best beginner resource to understand neural nets, by building them from scratch.
 * Start Machine Learning by Louis-François Bouchard: https://github.com/louisfb01/start-machine-learning
+  * An all-in-one beginner guide for ML with curated paths, practical projects, and regular updates.
+* MLforBeginners (by Microsoft): https://github.com/microsoft/ML-For-Beginners
+  * Hands-on introduction to core machine learning concepts through real-world projects and Jupyter Notebooks.
+* AI for Beginners (by Microsoft): https://github.com/microsoft/AI-For-Beginners
+  * 12-week curriculum walking you through AI foundations like search, logic, probabilistic reasoning, and more.
+* Generative AI for Beginners (by Microsoft): https://github.com/microsoft/generative-ai-for-beginners
+  * Want to understand LLMs and GenAI in 2025? This repo is your friendly intro to text generation, embeddings, and more.
 * fastai: https://github.com/fastai/fastai
+  * Built on top of PyTorch, fastai is both a library and a course for rapidly prototyping ML models without losing interpretability.
+* Awesome Data Science: https://github.com/academic/awesome-datascience
+  * A massive collection of the best free books, courses, tools, and datasets for anyone entering the data+AI world.
+* Karpathy’s nanoGPT: https://github.com/karpathy/nanoGPT
+  * Want to train your own GPT from scratch? This repo walks you through a compact GPT implementation in pure PyTorch.
+* LangChain: https://github.com/langchain-ai/langchain
+  * As you progress into applications, LangChain is your gateway to building real-world LLM-powered tools and agents.
 * RAG Techniques – Nir Diamant: https://github.com/NirDiamant/RAG_Techniques
 * GenAI Agents – Nir Diamant: https://github.com/NirDiamant/GenAI_Agents
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
