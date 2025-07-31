@@ -84,6 +84,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * OpenAI GPT-4 Technical Report: https://arxiv.org/abs/2303.08774
 * Google Gemini: A Family of Highly Capable Multimodal Models: https://arxiv.org/abs/2312.11805
 * DeepSeek-R1: https://arxiv.org/abs/2501.12948
+* Inverse Scaling in Test-Time Compute: https://arxiv.org/abs/2507.14417
 
 # Publications
 
