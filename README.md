@@ -85,6 +85,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * Google Gemini: A Family of Highly Capable Multimodal Models: https://arxiv.org/abs/2312.11805
 * DeepSeek-R1: https://arxiv.org/abs/2501.12948
 * Inverse Scaling in Test-Time Compute: https://arxiv.org/abs/2507.14417
+* A Survey of Context Engineering for Large Language Models: https://arxiv.org/abs/2507.13334
 
 # Publications
 
@@ -145,12 +146,13 @@ Below is a collection of resources for learning how to work with and develop Art
   * In-demand AI courses for today's workforce
 * Google Learn Essential AI Skills: https://ai.google/learn-ai-skills/
 
-## Prompting
+## Prompting / Context Engineering
 
 * Prompt Engineering by OpenAI: https://platform.openai.com/docs/guides/text?api-mode=responses
 * Related resources from around the web: https://cookbook.openai.com/articles/related_resources
 * Prompting Guide: https://www.promptingguide.ai/introduction
 * ChatGPT Prompt Engineering for Developers: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+* A Technical Roadmap to Context Engineering in LLMs: Mechanisms, Benchmarks, and Open Challenges: https://www.marktechpost.com/2025/08/03/a-technical-roadmap-to-context-engineering-in-llms-mechanisms-benchmarks-and-open-challenges/
 
 ## Tools
 
@@ -183,6 +185,8 @@ Below is a collection of resources for learning how to work with and develop Art
 * GenAI Agents – Nir Diamant: https://github.com/NirDiamant/GenAI_Agents
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
   * A collection of prompts for various AI tools and applications
+* Awesome Context Engineering: https://github.com/Meirtz/Awesome-Context-Engineering
+  * A comprehensive survey and collection of resources on Context Engineering techniques, methodologies, and applications - the evolution from static prompting to dynamic, context-aware AI systems
 * Generative AI guide: https://github.com/aishwaryanr/awesome-generative-ai-guide
 * Machine learning interview: https://github.com/khangich/machine-learning-interview
 * Algorithms in Python: https://github.com/TheAlgorithms/Python
