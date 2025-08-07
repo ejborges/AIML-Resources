@@ -173,6 +173,12 @@ Below is a collection of resources for learning how to work with and develop Art
   * 12-week curriculum walking you through AI foundations like search, logic, probabilistic reasoning, and more.
 * Generative AI for Beginners (by Microsoft): https://github.com/microsoft/generative-ai-for-beginners
   * Want to understand LLMs and GenAI in 2025? This repo is your friendly intro to text generation, embeddings, and more.
+* AI Agents for Beginners (by Microsoft): https://github.com/microsoft/ai-agents-for-beginners
+  * Step-by-step course to build AI agents using frameworks like AutoGen. 11 Lessons teaching everything you need to know to start building AI Agents
+* Hands-On Large Language Models: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+  * In this repository you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst. Dive into everything LLMs from tokenization, fine-tuning, inference, RAG, and more.
+* Hands-on LLM Fine Tuning: https://github.com/youssefHosni/Hands-On-LLM-Fine-Tuning
+  * Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techniques
 * fastai: https://github.com/fastai/fastai
   * Built on top of PyTorch, fastai is both a library and a course for rapidly prototyping ML models without losing interpretability.
 * Awesome Data Science: https://github.com/academic/awesome-datascience
@@ -182,11 +188,20 @@ Below is a collection of resources for learning how to work with and develop Art
 * LangChain: https://github.com/langchain-ai/langchain
   * As you progress into applications, LangChain is your gateway to building real-world LLM-powered tools and agents.
 * RAG Techniques – Nir Diamant: https://github.com/NirDiamant/RAG_Techniques
+  * Learn 30+ advanced methods for Retrieval-Augmented Generation (like HyDE, GraphRAG, etc.).
 * GenAI Agents – Nir Diamant: https://github.com/NirDiamant/GenAI_Agents
+* Agents Towards Production: https://github.com/NirDiamant/agents-towards-production
+  * A practical playbook for building and deploying AI agents with orchestration, memory, and security.
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
   * A collection of prompts for various AI tools and applications
 * Awesome Context Engineering: https://github.com/Meirtz/Awesome-Context-Engineering
   * A comprehensive survey and collection of resources on Context Engineering techniques, methodologies, and applications - the evolution from static prompting to dynamic, context-aware AI systems
+* Deep Learning Paper Implementations: https://github.com/labmlai/annotated_deep_learning_paper_implementations
+  * A collection of simple PyTorch implementations of neural networks and related algorithms. Explore 60+ well-documented PyTorch implementations of key DL papers: Transformers, GANs, Diffusion models & more.
+* Made With ML: https://github.com/GokuMohandas/Made-With-ML
+  * Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production-grade ML applications.
+* AI Engineering Hub: https://github.com/patchy631/ai-engineering-hub
+  * Browse 70+ real-world projects, tutorials, and agent apps to learn from or use directly.
 * Generative AI guide: https://github.com/aishwaryanr/awesome-generative-ai-guide
 * Machine learning interview: https://github.com/khangich/machine-learning-interview
 * Algorithms in Python: https://github.com/TheAlgorithms/Python
@@ -198,7 +213,8 @@ Below is a collection of resources for learning how to work with and develop Art
 * ML interview questions: https://github.com/andrewekhalel/MLQuestions?tab=readme-ov-file
 * Complete system design: https://github.com/Coder-World04/Complete-System-Design
 * Machine learning interviews: https://github.com/alirezadir/Machine-Learning-Interviews
-* Data science interviews: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers?tab=readme-ov-file
+* Data science interviews: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+  * A Curated list of data science interview questions and answers
 
 
 # Communities
