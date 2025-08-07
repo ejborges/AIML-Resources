@@ -306,12 +306,17 @@ Below is a collection of resources for learning how to work with and develop Art
 
 ## Hardware Resources
 
-### Consumer Grade 
+### Consumer Hardware 
 
 * NVIDIA DGX Spark: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
   * A Grace Blackwell AI supercomputer on your desk.
 * TODO: This section needs more information/resources
  
+### Enterprise Hardware
+
+* Cerebras: https://www.cerebras.ai/
+  * Cerebras builds computer systems for complex AI deep learning applications. They build AI hardware at wafer-scale and hold the world's speed record in AI inference.
+
 ## Cloud Infrastructure
 
 * TODO: This section needs more information/resources
