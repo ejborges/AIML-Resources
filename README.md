@@ -151,6 +151,15 @@ Below is a collection of resources for learning how to work with and develop Art
   * In-demand AI courses for today's workforce
 * Google Learn Essential AI Skills: https://ai.google/learn-ai-skills/
 
+## Guides
+
+* Fine-tuning a Multimodal Model Using SFT (Single or Multi-Image Dataset): https://huggingface.co/docs/trl/main/en/training_vlm_sft
+  * This guide walks you through the process of fine-tuning a multimodal language model (e.g., Gemma 3) using Supervised Fine-Tuning (SFT).
+* Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU: https://huggingface.co/learn/cookbook/fine_tuning_vlm_dpo_smolvlm_instruct
+  * Fine-tune a small Vision Language Model (VLM) with Direct Preference Optimization (DPO) using the Transformer Reinforcement Learning (TRL) library to demonstrate how you can tailor VLMs to suit your specific needs, even when working with consumer-grade GPUs.
+* Vision Language Model Alignment in TRL: https://huggingface.co/blog/trl-vlm-alignment
+  * Additional Vision Language Model alignment techniques 
+
 ## Prompting / Context Engineering
 
 * Prompt Engineering by OpenAI: https://platform.openai.com/docs/guides/text?api-mode=responses
@@ -161,7 +170,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * LangChain's Context Engineering Guide: https://blog.langchain.com/context-engineering-for-agents/
 * Context Engineering for AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 
-# Tools
+## Tools
 
 * Google Colab: https://colab.google/
   * Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
