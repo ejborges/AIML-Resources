@@ -304,6 +304,7 @@ Below is a collection of resources for learning how to work with and develop Art
   * Keras is a high-level API for building and training deep learning models, particularly neural networks. It's known for its user-friendliness, modularity, and flexibility, making it popular for both beginners and experienced deep learning practitioners.
 * Scikit-learn: https://scikit-learn.org/
   * A versatile library for machine learning algorithms and tools.
+* Awesome Claude Agents - AI Development Team: https://github.com/vijaythecoder/awesome-claude-agents
 
 ## Hardware Resources
 
