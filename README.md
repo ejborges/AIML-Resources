@@ -128,6 +128,8 @@ Below is a collection of resources for learning how to work with and develop Art
   * Official Claude dev hub — APIs, safety, workflows
 * Microsoft AI Learning Hub: https://learn.microsoft.com/en-us/ai/?tabs=developer
   * Full-stack GenAI learning with Azure tools
+* NVIDIA Deep Learning Institute: https://www.nvidia.com/en-us/training/
+  * Take advantage of the latest technical training from NVIDIA and gain in-demand skills, hands-on experience, and expert knowledge in AI, data science, accelerated computing, and more.
 * NVIDIA GenAI/LLM Learning Paths: https://www.nvidia.com/en-us/learn/learning-path/generative-ai-llm/
   * Build, tune, deploy — all in one place
 * DeepLearning AI: https://www.deeplearning.ai/
@@ -269,6 +271,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * Context Rot: How Increasing Input Tokens Impacts LLM Performance: https://research.trychroma.com/context-rot
 * The Open Source Project That Became an Essential Library for Modern AI Engineering: https://medium.com/@lucknitelol/the-open-source-project-that-became-an-essential-library-for-modern-ai-engineering-67021b50acee
 * Context Engineering For AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+* Building a Multi-Node Graph-Based AI Agent Framework for Complex Task Automation: https://www.marktechpost.com/2025/07/26/building-a-multi-node-graph-based-ai-agent-framework-for-complex-task-automation/
 
 # Development
 
