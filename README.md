@@ -112,6 +112,8 @@ Below is a collection of resources for learning how to work with and develop Art
 * How To build An LLM From Scratch - Shaw Talebi: https://youtu.be/ZLbVdvOoTKM?si=0_1rwUsJcHLbZ3sv
 * How To Train Your Own Language Models - Databricks: https://youtu.be/5qlLJrv_q-Q?si=hcH0ZYw6vm4hwR7L
 * Generative AI With Large Language Models: Hands-On Training Feat Huggingface and PyTorch Lightning: Jon Krohn: https://youtu.be/Ku9PM26Cc2c?si=IdVmLSGkDaTKjvq-
+* Deep Learning From Scratch by Professor Bryce: https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9
+  * 25+ videos covering everything from softmax to LSTMs, GANs, and even AlphaGo.
 
 ## Courses
 
