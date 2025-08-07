@@ -86,6 +86,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * DeepSeek-R1: https://arxiv.org/abs/2501.12948
 * Inverse Scaling in Test-Time Compute: https://arxiv.org/abs/2507.14417
 * A Survey of Context Engineering for Large Language Models: https://arxiv.org/abs/2507.13334
+* Hierarchical Reasoning Model: https://arxiv.org/abs/2506.21734
 
 # Publications
 
