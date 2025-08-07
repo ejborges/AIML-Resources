@@ -153,8 +153,10 @@ Below is a collection of resources for learning how to work with and develop Art
 * Prompting Guide: https://www.promptingguide.ai/introduction
 * ChatGPT Prompt Engineering for Developers: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 * A Technical Roadmap to Context Engineering in LLMs: Mechanisms, Benchmarks, and Open Challenges: https://www.marktechpost.com/2025/08/03/a-technical-roadmap-to-context-engineering-in-llms-mechanisms-benchmarks-and-open-challenges/
+* LangChain's Context Engineering Guide: https://blog.langchain.com/context-engineering-for-agents/
+* Context Engineering for AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 
-## Tools
+# Tools
 
 * Google Colab: https://colab.google/
   * Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
@@ -175,6 +177,8 @@ Below is a collection of resources for learning how to work with and develop Art
   * Want to understand LLMs and GenAI in 2025? This repo is your friendly intro to text generation, embeddings, and more.
 * AI Agents for Beginners (by Microsoft): https://github.com/microsoft/ai-agents-for-beginners
   * Step-by-step course to build AI agents using frameworks like AutoGen. 11 Lessons teaching everything you need to know to start building AI Agents
+* 12-Factor Agents: https://github.com/humanlayer/12-factor-agents
+  * Principles for building reliable LLM applications
 * Hands-On Large Language Models: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
   * In this repository you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst. Dive into everything LLMs from tokenization, fine-tuning, inference, RAG, and more.
 * Hands-on LLM Fine Tuning: https://github.com/youssefHosni/Hands-On-LLM-Fine-Tuning
