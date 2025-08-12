@@ -328,6 +328,9 @@ Below is a collection of resources for learning how to work with and develop Art
  
 ### Enterprise Hardware
 
+* NVIDIA RTX PRO Servers: https://nvidianews.nvidia.com/news/nvidia-rtx-pro-servers-with-blackwell-coming-to-worlds-most-popular-enterprise-systems
+  * RTX PRO Servers are ideal for running AI agents that use AI reasoning models to act and automate complex tasks.
+  * Cisco, Dell Technologies, HPE, Lenovo and Supermicro Unveil High-Volume Servers Featuring NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs to Accelerate Workloads From AI to IT
 * Cerebras: https://www.cerebras.ai/
   * Cerebras builds computer systems for complex AI deep learning applications. They build AI hardware at wafer-scale and hold the world's speed record in AI inference.
 
