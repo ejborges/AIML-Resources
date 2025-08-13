@@ -88,6 +88,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * A Survey of Context Engineering for Large Language Models: https://arxiv.org/abs/2507.13334
 * Hierarchical Reasoning Model: https://arxiv.org/abs/2506.21734
 * Reinforcement Learning in Vision: A Survey: https://share.google/VvfPbpV3D1GXtBCdx
+* A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems: https://arxiv.org/abs/2508.07407
 
 # Publications
 
