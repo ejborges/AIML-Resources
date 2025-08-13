@@ -89,6 +89,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * Hierarchical Reasoning Model: https://arxiv.org/abs/2506.21734
 * Reinforcement Learning in Vision: A Survey: https://arxiv.org/abs/2508.08189
 * A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems: https://arxiv.org/abs/2508.07407
+* InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization: https://arxiv.org/abs/2508.05731
 
 # Publications
 
