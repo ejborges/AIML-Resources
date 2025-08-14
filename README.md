@@ -90,6 +90,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * Reinforcement Learning in Vision: A Survey: https://arxiv.org/abs/2508.08189
 * A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems: https://arxiv.org/abs/2508.07407
 * InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization: https://arxiv.org/abs/2508.05731
+* Small Language Models are the Future of Agentic AI: https://arxiv.org/abs/2506.02153
 
 # Publications
 
@@ -284,6 +285,7 @@ Below is a collection of resources for learning how to work with and develop Art
 * The Open Source Project That Became an Essential Library for Modern AI Engineering: https://medium.com/@lucknitelol/the-open-source-project-that-became-an-essential-library-for-modern-ai-engineering-67021b50acee
 * Context Engineering For AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 * Building a Multi-Node Graph-Based AI Agent Framework for Complex Task Automation: https://www.marktechpost.com/2025/07/26/building-a-multi-node-graph-based-ai-agent-framework-for-complex-task-automation/
+* Nvidia researchers urge the AI industry to rethink agentic AI in favor of smaller, more efficient LLMs: https://the-decoder.com/nvidia-researchers-urge-the-ai-industry-to-rethink-agentic-ai-in-favor-of-smaller-more-efficient-llms/
 
 # Development
 
