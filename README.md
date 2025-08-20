@@ -289,6 +289,26 @@ Below is a collection of resources for learning how to work with and develop Art
 
 # Development
 
+## AI Coding Tools
+
+* Claude Code: https://www.anthropic.com/claude-code
+  * Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.
+* GitHub CoPilot: https://github.com/features/copilot
+  * An AI-powered coding assistant developed by GitHub and OpenAI. It functions as an AI pair programmer, providing real-time code suggestions and assistance to developers within their integrated development environment (IDE).
+* Google Jules: https://jules.google
+  * An Asynchronous Coding Agent
+  * An AI-powered coding assistant designed to work like an autonomous developer. It can understand your entire project, make complex changes across multiple files, create pull requests, and even fix bugs, all while working in the background. Unlike traditional AI coding tools, Jules operates asynchronously, allowing you to assign tasks and continue working without constant context switching.
+* Cursor: https://cursor.com/en
+  * Cursor is an AI-powered code editor built on top of Visual Studio Code (VS Code). It aims to enhance developer productivity by integrating AI features like code generation, smart refactoring, and codebase analysis directly into the coding environment. Essentially, it's a code editor with built-in AI assistance to help developers write, debug, and understand code more efficiently.
+* Amazon Kiro: https://kiro.dev
+  * Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.
+  * Kiro is a new AI-powered Integrated Development Environment (IDE) launched by Amazon Web Services (AWS) in July 2025. Built as a fork of VS Code, Kiro emphasizes a "spec-driven development" approach to help developers move from concept to production efficiently.
+* OpenAI Codex: https://openai.com/codex/
+  * OpenAI Codex is a powerful AI system, specifically a fine-tuned version of GPT-3, designed to translate natural language into code and understand existing code. It acts as a collaborative coding agent, assisting developers by generating code, explaining code, and even modifying code within a secure environment. Essentially, it's a tool that helps developers write code faster and more efficiently.
+* Lovable: https://lovable.dev
+  * Lovable is an AI-powered platform that allows users to build web applications by describing their desired functionality in natural language. It handles the code generation, including frontend, backend, and database setup, and integrates with tools like GitHub and Supabase. Lovable aims to make app development more accessible by enabling users to build functional apps without traditional coding.
+ 
+
 ## Software Development
 
 * Ollama: https://ollama.com/
@@ -341,4 +361,8 @@ Below is a collection of resources for learning how to work with and develop Art
 
 ## Cloud Infrastructure
 
+* Lambda: https://lambda.ai
+  * Gigawatt-Scale AI Factories for Training & Inference
+  * Exploring the NVIDIA HGX B200 Lambda AI Cluster at Cologix with Supermicro: https://www.servethehome.com/exploring-the-nvidia-hgx-b200-lambda-ai-cluster-at-cologix-with-supermicro/
+  * Video Tour: https://youtu.be/N5AJJ0tAoxc?si=sNJym4FCIPf4h0jT
 * TODO: This section needs more information/resources
