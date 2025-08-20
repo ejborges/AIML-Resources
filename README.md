@@ -286,6 +286,8 @@ Below is a collection of resources for learning how to work with and develop Art
 * Context Engineering For AI Agents: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 * Building a Multi-Node Graph-Based AI Agent Framework for Complex Task Automation: https://www.marktechpost.com/2025/07/26/building-a-multi-node-graph-based-ai-agent-framework-for-complex-task-automation/
 * Nvidia researchers urge the AI industry to rethink agentic AI in favor of smaller, more efficient LLMs: https://the-decoder.com/nvidia-researchers-urge-the-ai-industry-to-rethink-agentic-ai-in-favor-of-smaller-more-efficient-llms/
+* Maximizing self-hosted LLM performance with limited VRAM: https://www.xda-developers.com/get-the-most-out-of-self-hosted-llm-limited-by-vram/
+* Why LLMs Can't Really Build Software: https://zed.dev/blog/why-llms-cant-build-software
 
 # Development
 
