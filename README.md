@@ -308,6 +308,10 @@ Below is a collection of resources for learning how to work with and develop Art
 * Lovable: https://lovable.dev
   * Lovable is an AI-powered platform that allows users to build web applications by describing their desired functionality in natural language. It handles the code generation, including frontend, backend, and database setup, and integrates with tools like GitHub and Supabase. Lovable aims to make app development more accessible by enabling users to build functional apps without traditional coding.
  
+## AI Tools
+
+* Hugging Face AI Sheets: https://huggingface.co/blog/aisheets
+  * Hugging Face AI Sheets is a new, open-source tool for building, enriching, and transforming datasets using AI models with no code. The tool can be deployed locally or on the Hub. It lets you use thousands of open models from the Hugging Face Hub via Inference Providers or local models, including gpt-oss from OpenAI!
 
 ## Software Development
 
