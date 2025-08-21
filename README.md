@@ -327,6 +327,9 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * Why LLMs Can't Really Build Software: https://zed.dev/blog/why-llms-cant-build-software
 * Build a RAG application with LangChain and Local LLMs powered by Ollama: https://devblogs.microsoft.com/cosmosdb/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama/
 * Post training a VLM for reasoning with GRPO using TRL: https://huggingface.co/learn/cookbook/en/fine_tuning_vlm_grpo_trl
+* Direct preference optimization (DPO): Complete overview: https://www.superannotate.com/blog/direct-preference-optimization-dpo
+* Welcome GPT OSS, the new open-source model family from OpenAI: https://huggingface.co/blog/welcome-openai-gpt-oss
+* 5 self-hosted LLMs I use for specific tasks: https://www.xda-developers.com/self-hosted-llms-i-use-for-specific-tasks/
 
 # Development
 
