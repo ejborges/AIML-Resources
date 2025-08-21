@@ -330,6 +330,7 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * Direct preference optimization (DPO): Complete overview: https://www.superannotate.com/blog/direct-preference-optimization-dpo
 * Welcome GPT OSS, the new open-source model family from OpenAI: https://huggingface.co/blog/welcome-openai-gpt-oss
 * 5 self-hosted LLMs I use for specific tasks: https://www.xda-developers.com/self-hosted-llms-i-use-for-specific-tasks/
+* How we built our multi-agent research system: https://www.anthropic.com/engineering/multi-agent-research-system
 
 # Development
 
