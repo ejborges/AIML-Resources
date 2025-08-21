@@ -1,6 +1,43 @@
 Below is a collection of resources for learning how to work with and develop Artificial Intelligence and Machine Learning (AIML) systems. I’ve also included some resources that target the general software engineering community.
 
+# AI Acronyms and Phases
+
+## Phase 1: Foundation
+
+Lets start by building core language intelligence.
+* **AI**: Artificial Intelligence: Building systems that can perceive, reason, and act.
+* **ML**: Machine Learning: Models that learn patterns from data instead of rules.
+* **Deep Learning**: Neural networks that extract complex, layered representations, key to perception and reasoning.
+* **NLP**: Natural Language Processing: Focused on processing and generating human language.
+* **Transformers**: The architecture powering modern GenAI, using self-attention to model relationships across long sequences.
+* **LLMs**: Large Language Models: Large Transformer models trained to predict the next word, learning grammar, knowledge, and reasoning through scale.
+
+## Phase 2: Training; Making Models Aligned and Useful
+
+Raw models are not yet helpful, safe, or reliable.
+* **Pretraining**: The model learns general language and world knowledge from massive text corpora, without supervision.
+* **Post-training (Alignment)**: Shapes model behaviour to follow instructions and reflect human values. 
+* **SFT**: Supervised Fine Tuning: Teaches the model via high-quality prompt-response pairs. 
+* **RLHF / DPO**: Reinforcement Learning Human Feedback / Direct Preference Optimization: Refines outputs based on human preferences between responses.
+
+## Phase 3: Application; Giving the Model Skills and Context
+
+Once trained, we can guide and specialize the model using different techniques.
+* **In-Context Learning**: Teaching the model via examples and instructions within the prompt, no retraining needed.
+* **Prompt Engineering**: Designing inputs to get reliable, structured responses.
+* **Context Engineering**: Managing everything the model sees within its attention window (system prompts, chat history, retrieved docs, tool outputs, etc.).
+* **RAG**: Retrieval Agumented Generation: Injects up-to-date external information into the prompt, grounding the model in accurate, real-time knowledge.
+* **Fine-tuning**: Updates model weights with domain-specific data to teach custom behaviour, tone, or formats not achievable through prompting or RAG alone.
+
+## Phase 4: Orchestration
+
+Now the model becomes part of a system that can take decisions, act, and improve.
+* **Agents**: LLMs that plan, call tools (like APIs or search), observe results, and iterate toward goals, like autonomous digital workers.
+* **LLMOps**: Infrastructure for running LLMs in production, tracking versions, managing costs, monitoring outputs, evaluating performance, and ensuring safety at scale.
+
 # Books
+
+Below is a collection of books to continue expanding your knogledge and skills.
 
 ## AIML Books
 
@@ -288,6 +325,8 @@ Below is a collection of resources for learning how to work with and develop Art
 * Nvidia researchers urge the AI industry to rethink agentic AI in favor of smaller, more efficient LLMs: https://the-decoder.com/nvidia-researchers-urge-the-ai-industry-to-rethink-agentic-ai-in-favor-of-smaller-more-efficient-llms/
 * Maximizing self-hosted LLM performance with limited VRAM: https://www.xda-developers.com/get-the-most-out-of-self-hosted-llm-limited-by-vram/
 * Why LLMs Can't Really Build Software: https://zed.dev/blog/why-llms-cant-build-software
+* Build a RAG application with LangChain and Local LLMs powered by Ollama: https://devblogs.microsoft.com/cosmosdb/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama/
+* Post training a VLM for reasoning with GRPO using TRL: https://huggingface.co/learn/cookbook/en/fine_tuning_vlm_grpo_trl
 
 # Development
 
@@ -318,7 +357,9 @@ Below is a collection of resources for learning how to work with and develop Art
 ## Software Development
 
 * Ollama: https://ollama.com/
-  * Ollama is an open-source platform that simplifies running large language models (LLMs) locally on your computer. It allows you to download and execute various LLMs directly on your machine, offering privacy, customization, and offline usage. Ollama acts as a user-friendly interface and provides an API layer for interacting with these models. 
+  * Ollama is an open-source platform that simplifies running large language models (LLMs) locally on your computer. It allows you to download and execute various LLMs directly on your machine, offering privacy, customization, and offline usage. Ollama acts as a user-friendly interface and provides an API layer for interacting with these models.
+* Docker Model Runner: https://docs.docker.com/ai/model-runner/
+  * Docker Model Runner (DMR) makes it easy to manage, run, and deploy AI models using Docker. Designed for developers, Docker Model Runner streamlines the process of pulling, running, and serving large language models (LLMs) and other AI models directly from Docker Hub or any OCI-compliant registry.
 * Llama.cpp: https://github.com/ggml-org/llama.cpp
   * Inference of Meta's LLaMA model (and others) in pure C/C++
 * LLamafile: https://builders.mozilla.org/project/llamafile/
@@ -331,6 +372,9 @@ Below is a collection of resources for learning how to work with and develop Art
   * The free, OpenAI, Anthropic alternative. Your All-in-One Complete AI Stack - Run powerful language models, autonomous agents, and document intelligence locally on your hardware. No cloud, no limits, no compromise. Open Source MIT Licensed.
 * LangChain: https://www.langchain.com/
   * LangChain is an open-source framework designed to simplify the development of applications powered by language models. It provides a standardized way to connect language models to various data sources and other tools, enabling developers to build more sophisticated and versatile AI applications. LangChain focuses on modularity, allowing developers to mix and match components to create custom workflows. 
+* LangGraph: https://www.langchain.com/langgraph
+  * LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
+  * https://langchain-ai.github.io/langgraph/
 * vLLM: https://docs.vllm.ai/en/latest/
   * vLLM is a high-throughput and memory-efficient inference engine for large language models (LLMs). It was originally developed at UC Berkeley and has since become a community-driven open-source project. vLLM is designed to address the challenges of running large LLMs by optimizing for throughput, memory usage, and ease of use. 
 * system-prompts-and-models-of-ai-tools: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
