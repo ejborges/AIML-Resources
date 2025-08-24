@@ -335,6 +335,8 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * 5 self-hosted LLMs I use for specific tasks: https://www.xda-developers.com/self-hosted-llms-i-use-for-specific-tasks/
 * How we built our multi-agent research system: https://www.anthropic.com/engineering/multi-agent-research-system
 * Breaking into AI Engineering in 2025: https://www.newsletter.swirlai.com/p/breaking-into-ai-engineering-in-2025
+  * Good roadmap overview of all disciplines in the AI Engineering domain along with tools and services examples.
+  * ![2025 AI Engineering Roadmap](https://substack-post-media.s3.amazonaws.com/public/images/f23fdce8-fc60-4206-9641-cadbc6804f88_4000x2259.png)
 
 # Development
 
