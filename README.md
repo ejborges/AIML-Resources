@@ -239,6 +239,8 @@ Below is a collection of books to continue expanding your knogledge and skills.
   * In this repository you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst. Dive into everything LLMs from tokenization, fine-tuning, inference, RAG, and more.
 * Hands-on LLM Fine Tuning: https://github.com/youssefHosni/Hands-On-LLM-Fine-Tuning
   * Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techniques
+* unsloth: https://github.com/unslothai/unsloth
+  * Fine-tuning & Reinforcement Learning for LLMs
 * fastai: https://github.com/fastai/fastai
   * Built on top of PyTorch, fastai is both a library and a course for rapidly prototyping ML models without losing interpretability.
 * Awesome Data Science: https://github.com/academic/awesome-datascience
@@ -332,6 +334,7 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * Welcome GPT OSS, the new open-source model family from OpenAI: https://huggingface.co/blog/welcome-openai-gpt-oss
 * 5 self-hosted LLMs I use for specific tasks: https://www.xda-developers.com/self-hosted-llms-i-use-for-specific-tasks/
 * How we built our multi-agent research system: https://www.anthropic.com/engineering/multi-agent-research-system
+* Breaking into AI Engineering in 2025: https://www.newsletter.swirlai.com/p/breaking-into-ai-engineering-in-2025
 
 # Development
 
