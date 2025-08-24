@@ -145,6 +145,7 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * Stanford CS229 - Machine Learning - Building Large Language Models - 2023: https://www.youtube.com/watch?v=9vM4p9NN0Ts
 * Stanford CS336 Language Modeling From Scratch: https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=8_UAIgw31qq2revf
 * Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy: https://www.youtube.com/watch?v=XfpMkf4rD6E
+* Stanford Webinar - Agentic AI: A Progression of Language Model Usage: https://youtu.be/kJLiOGle3Lw?si=tylWoEOTpL3xraFZ
 * MIT Introduction to Deep Learning – 2024: https://youtu.be/ErnWZxJovaM?si=hHH3I8-1ZXfTJse7
 * Your Guide to Generative AI Courses: https://www.deeplearning.ai/resources/generative-ai-courses-guide/
 * Let's build GPT: from scratch, in code, spelled out: Andrej Karpathy: https://www.youtube.com/watch?v=kCc8FmEb1nY
