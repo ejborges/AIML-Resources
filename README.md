@@ -337,6 +337,7 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * Breaking into AI Engineering in 2025: https://www.newsletter.swirlai.com/p/breaking-into-ai-engineering-in-2025
   * Good roadmap overview of all disciplines in the AI Engineering domain along with tools and services examples.
   * ![2025 AI Engineering Roadmap](https://substack-post-media.s3.amazonaws.com/public/images/f23fdce8-fc60-4206-9641-cadbc6804f88_4000x2259.png)
+* Trending AI Tools of 2025: https://open.substack.com/pub/aisupremacy/p/trending-ai-tools-of-2025-listicle
 
 # Development
 
