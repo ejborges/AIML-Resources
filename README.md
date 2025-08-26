@@ -1,4 +1,4 @@
-Below is a collection of resources for learning how to work with and develop Artificial Intelligence and Machine Learning (AIML) systems. I’ve also included some resources that target the general software engineering community.
+Below is a collection of resources for learning how to work with and develop Artificial Intelligence and Machine Learning (AIML) systems. I’ve also included some resources that target the general software engineering community. There are also books and resources for business in the AIML and software domains.
 
 # AI Acronyms and Phases
 
@@ -40,6 +40,8 @@ Now the model becomes part of a system that can take decisions, act, and improve
 Below is a collection of books to continue expanding your knogledge and skills.
 
 ## AIML Books
+
+Artificial Intelligence and Machine Learning books:
 
 * The Hundred-Page Machine Learning Book - Andriy Burkov: https://a.co/d/eoqYeyZ
   * Overview of ML principles and algorithms
@@ -112,6 +114,11 @@ Below is a collection of books to continue expanding your knogledge and skills.
 * System Design Interview (Vol 2) - Alex Xu: https://a.co/d/6LeVmL6
 * Machine Learning System Design Interview - Alex Xu: https://a.co/d/balA6ca
 * Generative AI System Design Interview – Ali Aminian: https://a.co/d/az1jUBy
+
+## Business Stories & Biographies in AIML
+
+* The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip: https://a.co/d/gXtwvJX
+  * Chronicles Nvidia's rise to become Earth's most valuable corporation through Jensen Huang's visionary leadership, betting on Al and revolutionizing computer architecture to create the future of technology.
 
 # Papers
 
