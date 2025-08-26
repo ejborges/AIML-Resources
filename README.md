@@ -288,7 +288,20 @@ Artificial Intelligence and Machine Learning books:
 * Machine learning interviews: https://github.com/alirezadir/Machine-Learning-Interviews
 * Data science interviews: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
   * A Curated list of data science interview questions and answers
-
+* ML Roadmap: https://github.com/loganthorneloe/essential-ml-roadmap/tree/main
+  * A no-fluff ML roadmap built for self-learners.
+* Awesome-computer-vision: https://github.com/jbhuang0604/awesome-computer-vision
+  * The best CV collection: books, datasets, research tips, projects.
+* Awesome-nlp: https://github.com/keon/awesome-nlp
+  * From transformers to multilingual NLP tools, plus top courses.
+* Prompt-Engineering Guide: https://github.com/dair-ai/Prompt-Engineering-Guide
+  * Everything prompt-engineering under the sun in one place.
+* All-RL-Algorithm: https://github.com/FareedKhan-dev/all-rl-algorithms
+  * Clean RL implementations with a cheat sheet.
+* Awesome-RL: https://github.com/aikorea/awesome-rl
+  * A rich archive of RL theory, papers, demos, and apps.
+* Awesome-generative-ai: https://github.com/filipecalegario/awesome-generative-ai
+  * Most current GenAI list: courses, tools, and papers by recency.
 
 # Communities
 
