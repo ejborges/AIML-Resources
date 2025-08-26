@@ -153,7 +153,7 @@ Artificial Intelligence and Machine Learning books:
 * How Andrej Karpathy Uses LLMs: https://www.youtube.com/watch?v=EWvNQjAaOHw
 * Neural Networks: Zero to Hero by Andrej Karpathy: https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=9yCI-WiAqFOGglpe
 * Stanford CS229 - Machine Learning - Introduction - 2022 - Lecture 1: https://youtu.be/Bl4Feh_Mjvo?si=oEGFrwP4cVmzwq4u
-* Stanford CS229 - Machine Learning - Building Large Language Models - 2 023: https://www.youtube.com/watch?v=9vM4p9NN0Ts
+* Stanford CS229 - Machine Learning - Building Large Language Models - 2023: https://www.youtube.com/watch?v=9vM4p9NN0Ts
 * Stanford CS336 Language Modeling From Scratch: https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=8_UAIgw31qq2revf
 * Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy: https://www.youtube.com/watch?v=XfpMkf4rD6E
 * Stanford Webinar - Agentic AI: A Progression of Language Model Usage: https://youtu.be/kJLiOGle3Lw?si=tylWoEOTpL3xraFZ
