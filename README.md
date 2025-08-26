@@ -135,6 +135,7 @@ Artificial Intelligence and Machine Learning books:
 * A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems: https://arxiv.org/abs/2508.07407
 * InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization: https://arxiv.org/abs/2508.05731
 * Small Language Models are the Future of Agentic AI: https://arxiv.org/abs/2506.02153
+* Speed Always Wins: A Survey on Efficient Architectures for Large Language Models: https://arxiv.org/abs/2508.09834
 
 # Publications
 
