@@ -211,7 +211,9 @@ Artificial Intelligence and Machine Learning books:
 * Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU: https://huggingface.co/learn/cookbook/fine_tuning_vlm_dpo_smolvlm_instruct
   * Fine-tune a small Vision Language Model (VLM) with Direct Preference Optimization (DPO) using the Transformer Reinforcement Learning (TRL) library to demonstrate how you can tailor VLMs to suit your specific needs, even when working with consumer-grade GPUs.
 * Vision Language Model Alignment in TRL: https://huggingface.co/blog/trl-vlm-alignment
-  * Additional Vision Language Model alignment techniques 
+  * Additional Vision Language Model alignment techniques
+* Made With ML: https://madewithml.com/
+  * Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications.
 
 ## Prompting / Context Engineering
 
@@ -302,6 +304,8 @@ Artificial Intelligence and Machine Learning books:
   * A rich archive of RL theory, papers, demos, and apps.
 * Awesome-generative-ai: https://github.com/filipecalegario/awesome-generative-ai
   * Most current GenAI list: courses, tools, and papers by recency.
+* Made With ML: https://github.com/GokuMohandas/Made-With-ML
+  * Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 # Communities
 
