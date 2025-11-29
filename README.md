@@ -306,6 +306,8 @@ Artificial Intelligence and Machine Learning books:
   * Most current GenAI list: courses, tools, and papers by recency.
 * Made With ML: https://github.com/GokuMohandas/Made-With-ML
   * Learn how to design, develop, deploy and iterate on production-grade ML applications.
+* LLM Council: https://github.com/karpathy/llm-council
+  * A simple, local web app that essentially looks like ChatGPT except it uses OpenRouter to send your query to multiple LLMs, it then asks them to review and rank each other's work, and finally a Chairman LLM produces the final response.
 
 # Communities
 
