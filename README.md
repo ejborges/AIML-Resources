@@ -139,6 +139,8 @@ Artificial Intelligence and Machine Learning books:
 * InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization: https://arxiv.org/abs/2508.05731
 * Small Language Models are the Future of Agentic AI: https://arxiv.org/abs/2506.02153
 * Speed Always Wins: A Survey on Efficient Architectures for Large Language Models: https://arxiv.org/abs/2508.09834
+* Continuous Autoregressive Language Models: https://arxiv.org/abs/2510.27688
+* The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity: https://arxiv.org/abs/2506.06941
 
 # Publications
 
