@@ -310,6 +310,8 @@ Artificial Intelligence and Machine Learning books:
   * Learn how to design, develop, deploy and iterate on production-grade ML applications.
 * LLM Council: https://github.com/karpathy/llm-council
   * A simple, local web app that essentially looks like ChatGPT except it uses OpenRouter to send your query to multiple LLMs, it then asks them to review and rank each other's work, and finally a Chairman LLM produces the final response.
+* Awesome LLM Apps: https://github.com/Shubhamsaboo/awesome-llm-apps
+  * Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 # Communities
 
